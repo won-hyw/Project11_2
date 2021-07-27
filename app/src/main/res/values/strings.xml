@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="title01">그랑블루</string>
+    <string name="title02">라라랜드</string>
+    <string name="title03">부산행</string>
+    <string name="title04">걸캅스</string>
+    <string name="title05">1987</string>
+    <string name="title06">업</string>
+    <string name="title07">토이스토리4</string>
+    <string name="title08">어벤져스:엔드게임</string>
+    <string name="title09">장난스런 키스</string>
+    <string name="title10">신과함께</string>
 </resources>
